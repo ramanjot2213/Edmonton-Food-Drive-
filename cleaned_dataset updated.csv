@@ -1,0 +1,514 @@
+,Location,Stake,# of Adult Volunteers,# of Youth Volunteers,Donation Bags Collected,Time to Complete (min),Ward/Branch.1,Routes Completed,Doors in Route,Time Spent,Did you complete more than 1 route?
+0,Londonderry Chapel,Bonnie Doon Stake,1,3,14,25,Clareview Ward,1,14,25,No
+1,Gateway Stake Centre,Gateway Stake,3,1,18,25,Crawford Plains Ward,2,144,30,Yes
+2,Gateway Stake Centre,Gateway Stake,2,0,20,30,Silver Berry Ward,1,186,30,No
+3,Gateway Stake Centre,Gateway Stake,2,0,20,25,Crawford Plains Ward,1,0,30,Yes
+4,Londonderry Chapel,Bonnie Doon Stake,1,0,2,5,Londonderry Ward,1,1,-32.88349515,No
+5,Bearspaw Chapel,Gateway Stake,2,0,20,20,Blackmud Creek Ward,1,179,20,No
+6,Gateway Stake Centre,Gateway Stake,1,4,17,25,Lee Ridge Ward,1,141,22,No
+7,Londonderry Chapel,Bonnie Doon Stake,2,0,32,45,Londonderry Ward,1,27,-32.88349515,No
+8,Londonderry Chapel,Bonnie Doon Stake,2,0,100,5,Londonderry Ward,2,200,49,Yes
+9,Bearspaw Chapel,Bonnie Doon Stake,2,3,15,45,Southgate Ward,1,13,35,No
+10,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,2,30,30,Connors Hill Ward,1,300,30,No
+11,Londonderry Chapel,Bonnie Doon Stake,1,0,17,60,Clareview Ward,1,110,-32.88349515,No
+12,Londonderry Chapel,Bonnie Doon Stake,3,2,20,40,Londonderry Ward,1,107,40,No
+13,Coronation Park Chapel,Bonnie Doon Stake,2,1,25,55,Coronation Park Ward,1,20,55,No
+14,Londonderry Chapel,Bonnie Doon Stake,2,3,24,45,Clareview Ward,3,250,45,No
+15,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,5,10,60,Connors Hill Ward,1,184,60,No
+16,Londonderry Chapel,Bonnie Doon Stake,2,2,12,30,Londonderry Ward,1,12,-32.88349515,No
+17,Londonderry Chapel,Bonnie Doon Stake,2,0,30,45,Londonderry Ward,2,0,60,No
+18,Londonderry Chapel,Bonnie Doon Stake,2,0,16,25,Londonderry Ward,1,98,25,No
+19,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,2,10,20,Forest Heights Ward,2,120,20,No
+20,Coronation Park Chapel,Bonnie Doon Stake,2,0,20,60,Coronation Park Ward,1,96,60,No
+21,Gateway Stake Centre,Gateway Stake,5,0,29,30,Silver Berry Ward,1,19,30,No
+22,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,1,40,30,Forest Heights Ward,1,200,45,No
+23,Coronation Park Chapel,Bonnie Doon Stake,2,0,18,63,Coronation Park Ward,1,140,63,No
+24,Gateway Stake Centre,Gateway Stake,2,3,21,30,Silver Berry Ward,1,1,32,No
+25,Bearspaw Chapel,Gateway Stake,5,3,24,40,Lee Ridge Ward,1,157,40,No
+26,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,3,40,180,Connors Hill Ward,2,375,60,No
+27,Gateway Stake Centre,Gateway Stake,3,0,35,30,Silver Berry Ward,1,250,740,No
+28,Gateway Stake Centre,Gateway Stake,2,0,15,25,Crawford Plains Ward,1,116,25,No
+29,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,30,30,Forest Heights Ward,1,115,30,No
+30,Londonderry Chapel,Bonnie Doon Stake,1,1,36,45,Clareview Ward,1,15,-32.88349515,No
+31,Londonderry Chapel,Bonnie Doon Stake,2,0,16,30,,1,110,35,No
+32,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,2,15,30,Forest Heights Ward,1,90,38,No
+33,North Stake Centre,Edmonton North Stake,2,1,21,45,Griesbach Ward,1,206,45,No
+34,Gateway Stake Centre,Gateway Stake,2,3,21,32,Silver Berry Ward,1,202,32,No
+35,North Stake Centre,Edmonton North Stake,1,1,23,45,Griesbach Ward,1,206,45,No
+36,Riverbend Stake Centre,Riverbend Stake,2,0,30,50,Greenfield Ward,1,172,50,No
+37,Londonderry Chapel,Bonnie Doon Stake,2,0,24,30,Clareview Ward,1,23,-32.88349515,No
+38,Coronation Park Chapel,Bonnie Doon Stake,2,0,5,32,Coronation Park Ward,1,302,39,No
+39,North Stake Centre,Edmonton North Stake,2,3,29,60,Griesbach Ward,1,107,60,No
+40,Gateway Stake Centre,Gateway Stake,1,0,20,20,Crawford Plains Ward,1,100,20,No
+41,Londonderry Chapel,Bonnie Doon Stake,2,1,17,30,Londonderry Ward,1,182,-32.88349515,No
+42,Londonderry Chapel,Bonnie Doon Stake,3,0,15,45,Londonderry Ward,2,200,51,No
+43,North Stake Centre,Edmonton North Stake,2,2,24,30,Griesbach Ward,1,20,30,No
+44,Gateway Stake Centre,Gateway Stake,2,0,26,45,Crawford Plains Ward,1,150,40,No
+45,Gateway Stake Centre,Gateway Stake,3,0,24,35,Silver Berry Ward,1,194,40,No
+46,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,3,30,60,Forest Heights Ward,2,100,73,No
+47,Gateway Stake Centre,Gateway Stake,2,2,33,50,Ellerslie Ward,1,207,50,No
+48,Londonderry Chapel,Bonnie Doon Stake,2,2,11,35,Londonderry Ward,1,116,-32.88349515,No
+49,Bearspaw Chapel,Gateway Stake,2,0,15,45,Blackmud Creek Ward,1,135,35,No
+50,Gateway Stake Centre,Gateway Stake,1,0,11,20,Silver Berry Ward,1,29,13,No
+51,Riverbend Stake Centre,Riverbend Stake,2,3,22,30,Rabbit Hill Ward,1,80,40,No
+52,North Stake Centre,Edmonton North Stake,2,0,23,100,Namao Ward,1,160,100,No
+53,Gateway Stake Centre,Gateway Stake,2,0,23,30,Wainwright Branch,1,137,30,No
+54,Gateway Stake Centre,Gateway Stake,1,4,16,20,Lee Ridge Ward,2,147,20,No
+55,Riverbend Stake Centre,Riverbend Stake,4,2,59,60,Rabbit Hill Ward,2,236,60,No
+56,Gateway Stake Centre,Gateway Stake,1,1,5,17,Crawford Plains Ward,1,135,17,No
+57,North Stake Centre,Edmonton North Stake,2,3,35,70,Griesbach Ward,1,370,65,No
+58,Riverbend Stake Centre,Riverbend Stake,3,16,25,45,Woodbend Ward,1,100,45,No
+59,Gateway Stake Centre,Gateway Stake,2,0,15,40,Crawford Plains Ward,1,115,40,No
+60,North Stake Centre,Edmonton North Stake,2,2,16,60,Griesbach Ward,1,200,50,No
+61,Gateway Stake Centre,Gateway Stake,2,0,20,30,Silver Berry Ward,1,198,30,No
+62,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,25,40,Connors Hill Ward,1,235,60,No
+63,Londonderry Chapel,Bonnie Doon Stake,2,0,20,35,Londonderry Ward,1,100,40,No
+64,Gateway Stake Centre,Gateway Stake,2,1,22,50,Ellerslie Ward,1,191,50,No
+65,North Stake Centre,Edmonton North Stake,2,0,9,20,Griesbach Ward,1,100,20,No
+66,Gateway Stake Centre,Gateway Stake,2,0,31,58,Silver Berry Ward,1,27,57,No
+67,Gateway Stake Centre,Gateway Stake,4,0,26,50,Silver Berry Ward,1,168,50,No
+68,North Stake Centre,Edmonton North Stake,1,4,42,50,Namao Ward,1,392,60,No
+69,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,3,18,120,Forest Heights Ward,1,100,56,No
+70,Gateway Stake Centre,Gateway Stake,2,3,21,50,Crawford Plains Ward,2,317,50,No
+71,Riverbend Stake Centre,Riverbend Stake,3,0,54,75,Greenfield Ward,1,212,80,No
+72,Gateway Stake Centre,Gateway Stake,1,2,11,30,Crawford Plains Ward,2,261,33,No
+73,Gateway Stake Centre,Gateway Stake,2,0,15,40,Crawford Plains Ward,1,115,40,No
+74,Coronation Park Chapel,Edmonton North Stake,1,2,31,45,Stony Plain Ward,2,453,69,No
+75,Gateway Stake Centre,Gateway Stake,2,0,27,40,Silver Berry Ward,1,23,40,No
+76,Gateway Stake Centre,Gateway Stake,2,0,12,25,Crawford Plains Ward,1,110,25,No
+77,Londonderry Chapel,Bonnie Doon Stake,2,0,34,60,Clareview Ward,2,32,-32.88349515,No
+78,Bearspaw Chapel,Gateway Stake,2,3,37,30,Lee Ridge Ward,2,144,30,No
+79,Gateway Stake Centre,Gateway Stake,2,0,26,35,Ellerslie Ward,1,220,35,No
+80,Londonderry Chapel,Bonnie Doon Stake,2,0,9,45,Clareview Ward,1,0,-32.88349515,No
+81,Gateway Stake Centre,Gateway Stake,2,0,11,15,Ellerslie Ward,1,165,15,No
+82,Bearspaw Chapel,Gateway Stake,1,7,6,60,Wild Rose Ward,2,315,60,No
+83,Londonderry Chapel,Bonnie Doon Stake,2,2,43,60,Londonderry Ward,2,300,55,No
+84,Londonderry Chapel,Bonnie Doon Stake,2,1,35,60,Londonderry Ward,2,250,57,No
+85,Bearspaw Chapel,Gateway Stake,2,0,8,60,Lee Ridge Ward,1,162,60,No
+86,Coronation Park Chapel,Bonnie Doon Stake,1,1,38,90,Coronation Park Ward,2,300,-32.88349515,No
+87,Riverbend Stake Centre,Riverbend Stake,1,3,10,30,Woodbend Ward,1,10,30,No
+88,Gateway Stake Centre,Gateway Stake,2,3,20,50,Ellerslie Ward,1,219,50,No
+89,Riverbend Stake Centre,Riverbend Stake,3,0,60,90,Terwillegar Park Ward,1,250,90,No
+90,Londonderry Chapel,Bonnie Doon Stake,1,2,6,45,Clareview Ward,1,150,-32.88349515,No
+91,Londonderry Chapel,Bonnie Doon Stake,2,0,45,75,Londonderry Ward,1,300,75,No
+92,Gateway Stake Centre,Gateway Stake,2,0,24,40,Silver Berry Ward,1,167,50,No
+93,Londonderry Chapel,Bonnie Doon Stake,2,3,35,60,Londonderry Ward,1,180,60,No
+94,Bearspaw Chapel,Bonnie Doon Stake,2,0,20,45,Southgate Ward,1,95,89,No
+95,Gateway Stake Centre,Gateway Stake,7,7,46,60,Rio Vista Ward,1,219,60,No
+96,Gateway Stake Centre,Gateway Stake,1,1,15,55,Crawford Plains Ward,2,236,55,No
+97,Riverbend Stake Centre,Riverbend Stake,2,0,20,45,Rutherford Ward,1,13,45,No
+98,Bearspaw Chapel,Gateway Stake,46,0,15,45,Lee Ridge Ward,1,15,45,No
+99,Londonderry Chapel,Bonnie Doon Stake,2,2,19,45,Londonderry Ward,1,198,35,No
+100,Coronation Park Chapel,Edmonton North Stake,1,0,30,47,Stony Plain Ward,2,155,-32.88349515,No
+101,Gateway Stake Centre,Gateway Stake,2,0,35,70,Crawford Plains Ward,1,134,67,No
+102,Londonderry Chapel,Bonnie Doon Stake,2,0,4,10,Londonderry Ward,1,0,-32.88349515,No
+103,North Stake Centre,Edmonton North Stake,2,4,23,50,Griesbach Ward,1,203,50,No
+104,Londonderry Chapel,Bonnie Doon Stake,2,0,12,50,Clareview Ward,1,180,63,No
+105,Londonderry Chapel,Bonnie Doon Stake,1,3,7,30,Londonderry Ward,1,7,30,No
+106,Riverbend Stake Centre,Riverbend Stake,2,0,40,60,Greenfield Ward,1,20,65,No
+107,Coronation Park Chapel,Bonnie Doon Stake,2,2,72,45,Coronation Park Ward,3,63,81,No
+108,North Stake Centre,Edmonton North Stake,1,2,22,60,Griesbach Ward,1,150,45,No
+109,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,1,40,60,Connors Hill Ward,1,160,44,No
+110,Gateway Stake Centre,Gateway Stake,2,3,20,60,Crawford Plains Ward,2,194,60,No
+111,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,0,33,45,Forest Heights Ward,2,130,45,No
+112,Riverbend Stake Centre,Riverbend Stake,1,2,18,40,Rutherford Ward,1,14,40,No
+113,Gateway Stake Centre,Gateway Stake,2,0,17,40,Silver Berry Ward,1,170,40,No
+114,Riverbend Stake Centre,Riverbend Stake,2,1,12,15,Rutherford Ward,1,12,40,No
+115,North Stake Centre,Edmonton North Stake,3,0,17,45,Griesbach Ward,1,13,60,No
+116,Gateway Stake Centre,Gateway Stake,2,0,37,15,Crawford Plains Ward,4,520,54,No
+117,North Stake Centre,Edmonton North Stake,2,0,12,100,Namao Ward,1,175,95,No
+118,Riverbend Stake Centre,Riverbend Stake,2,2,10,10,Rabbit Hill Ward,1,70,28,No
+119,Riverbend Stake Centre,Riverbend Stake,1,3,50,60,Terwillegar Park Ward,1,38,65,No
+120,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,10,30,Connors Hill Ward,1,136,30,No
+121,Riverbend Stake Centre,Riverbend Stake,4,0,23,45,Greenfield Ward,1,192,60,No
+122,North Stake Centre,Edmonton North Stake,1,3,15,60,Griesbach Ward,1,14,60,No
+123,North Stake Centre,Edmonton North Stake,1,3,7,40,Griesbach Ward,1,90,40,No
+124,Gateway Stake Centre,Gateway Stake,1,0,16,30,Crawford Plains Ward,1,135,30,No
+125,Gateway Stake Centre,Gateway Stake,1,2,28,35,Ellerslie Ward,1,203,35,No
+126,Londonderry Chapel,Bonnie Doon Stake,1,2,12,20,Londonderry Ward,1,110,25,No
+127,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,25,60,Connors Hill Ward,1,249,60,No
+128,Bearspaw Chapel,Gateway Stake,19,2,15,55,Lee Ridge Ward,1,158,70,No
+129,Bearspaw Chapel,Gateway Stake,7,0,17,40,Lee Ridge Ward,1,170,42,No
+130,Gateway Stake Centre,Gateway Stake,2,2,9,20,Crawford Plains Ward,1,138,20,No
+131,Riverbend Stake Centre,Riverbend Stake,4,1,15,15,Rabbit Hill Ward,1,80,15,No
+132,Bearspaw Chapel,Gateway Stake,3,3,55,47,Blackmud Creek Ward,1,165,47,No
+133,Gateway Stake Centre,Gateway Stake,3,2,30,40,Crawford Plains Ward,2,256,40,No
+134,Gateway Stake Centre,Gateway Stake,3,1,40,100,Silver Berry Ward,2,419,100,No
+135,North Stake Centre,Edmonton North Stake,2,2,15,60,Griesbach Ward,1,106,50,No
+136,Coronation Park Chapel,Bonnie Doon Stake,2,2,35,75,Coronation Park Ward,2,144,74,No
+137,Gateway Stake Centre,Gateway Stake,2,1,11,60,Silver Berry Ward,2,11,60,No
+138,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,16,40,Forest Heights Ward,1,125,40,No
+139,Gateway Stake Centre,Gateway Stake,1,2,32,35,Lee Ridge Ward,1,173,35,No
+140,North Stake Centre,Edmonton North Stake,2,0,18,55,Griesbach Ward,1,90,55,No
+141,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,4,32,45,Forest Heights Ward,1,200,73,No
+142,Coronation Park Chapel,Bonnie Doon Stake,3,0,18,45,Coronation Park Ward,1,143,45,No
+143,Riverbend Stake Centre,Riverbend Stake,2,0,44,70,Terwillegar Park Ward,1,285,75,No
+144,Gateway Stake Centre,Gateway Stake,2,3,30,60,Crawford Plains Ward,2,23,75,No
+145,Gateway Stake Centre,Gateway Stake,3,2,30,40,Ellerslie Ward,1,210,45,No
+146,Bearspaw Chapel,Gateway Stake,2,0,35,60,Blackmud Creek Ward,1,148,120,No
+147,Riverbend Stake Centre,Riverbend Stake,2,0,44,60,Rutherford Ward,2,446,60,No
+148,Londonderry Chapel,Bonnie Doon Stake,1,2,35,45,Londonderry Ward,1,200,-32.88349515,No
+149,Coronation Park Chapel,Bonnie Doon Stake,3,1,117,45,Coronation Park Ward,4,403,90,No
+150,North Stake Centre,Edmonton North Stake,2,0,30,105,Griesbach Ward,3,356,105,No
+151,Londonderry Chapel,Bonnie Doon Stake,2,2,40,70,Clareview Ward,2,200,70,No
+152,Londonderry Chapel,Bonnie Doon Stake,2,0,3,3,Clareview Ward,1,0,-32.88349515,No
+153,Gateway Stake Centre,Gateway Stake,2,0,30,55,Silver Berry Ward,1,174,55,No
+154,Bearspaw Chapel,Gateway Stake,4,3,26,30,Lee Ridge Ward,1,148,36,No
+155,Riverbend Stake Centre,Riverbend Stake,1,1,24,90,Terwillegar Park Ward,1,170,90,No
+156,Riverbend Stake Centre,Riverbend Stake,2,0,70,90,Terwillegar Park Ward,1,312,108,No
+157,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,3,20,60,Forest Heights Ward,1,120,60,No
+158,Gateway Stake Centre,Gateway Stake,1,0,26,40,Ellerslie Ward,2,191,36,No
+159,Gateway Stake Centre,Gateway Stake,2,1,23,32,Crawford Plains Ward,1,195,32,No
+160,Londonderry Chapel,Bonnie Doon Stake,2,0,15,30,Clareview Ward,1,121,38,No
+161,Gateway Stake Centre,Gateway Stake,2,3,13,15,Crawford Plains Ward,1,115,30,No
+162,Gateway Stake Centre,Gateway Stake,1,2,20,50,Ellerslie Ward,2,260,50,No
+163,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,1,18,45,Forest Heights Ward,1,125,36,No
+164,Gateway Stake Centre,Gateway Stake,2,1,36,40,Lee Ridge Ward,1,145,44,No
+165,Bearspaw Chapel,Bonnie Doon Stake,5,1,6,15,Southgate Ward,1,40,60,No
+166,Gateway Stake Centre,Gateway Stake,2,2,35,60,Ellerslie Ward,1,214,60,No
+167,Gateway Stake Centre,Gateway Stake,2,0,6,15,Crawford Plains Ward,1,168,15,No
+168,North Stake Centre,Edmonton North Stake,3,2,43,60,Griesbach Ward,2,40,60,No
+169,Riverbend Stake Centre,Riverbend Stake,3,1,19,40,Terwillegar Park Ward,1,150,50,No
+170,North Stake Centre,Edmonton North Stake,2,1,10,52,Griesbach Ward,1,120,52,No
+171,Riverbend Stake Centre,Riverbend Stake,2,1,48,44,Greenfield Ward,2,208,44,No
+172,Bonnie Doon Stake Centre,Bonnie Doon Stake,4,0,42,60,Forest Heights Ward,2,194,96,No
+173,Riverbend Stake Centre,Riverbend Stake,1,2,40,30,Woodbend Ward,1,220,30,No
+174,Londonderry Chapel,Bonnie Doon Stake,1,1,30,60,Londonderry Ward,1,100,-32.88349515,No
+175,Londonderry Chapel,Bonnie Doon Stake,1,5,25,45,,1,25,-32.88349515,No
+176,Coronation Park Chapel,Bonnie Doon Stake,2,1,55,110,Coronation Park Ward,2,0,98,No
+177,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,1,40,150,Connors Hill Ward,2,180,95,No
+178,Riverbend Stake Centre,Riverbend Stake,2,0,50,270,Greenfield Ward,1,210,83,No
+179,Bearspaw Chapel,Gateway Stake,6,5,48,49,Blackmud Creek Ward,1,162,42,No
+180,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,2,17,51,Forest Heights Ward,1,75,54,No
+181,Riverbend Stake Centre,Riverbend Stake,2,2,65,90,Rutherford Ward,2,650,70,No
+182,Bearspaw Chapel,Gateway Stake,2,2,15,60,Blackmud Creek Ward,1,100,75,No
+183,Gateway Stake Centre,Gateway Stake,2,3,31,50,Silver Berry Ward,1,180,50,No
+184,Londonderry Chapel,Bonnie Doon Stake,2,0,6,35,Clareview Ward,1,110,65,No
+185,Londonderry Chapel,Bonnie Doon Stake,1,0,30,75,Londonderry Ward,2,250,-32.88349515,No
+186,Coronation Park Chapel,Bonnie Doon Stake,4,0,37,45,Coronation Park Ward,2,0,100,No
+187,Bearspaw Chapel,Bonnie Doon Stake,2,1,10,30,Strathcona Married Student Ward,1,90,45,No
+188,Londonderry Chapel,Bonnie Doon Stake,4,0,17,30,Londonderry Ward,1,17,-32.88349515,No
+189,Gateway Stake Centre,Gateway Stake,2,2,34,28,Ellerslie Ward,1,203,28,No
+190,Riverbend Stake Centre,Riverbend Stake,1,1,15,15,Woodbend Ward,1,8,15,No
+191,Gateway Stake Centre,Gateway Stake,24,0,14,24,Crawford Plains Ward,2,146,24,No
+192,Riverbend Stake Centre,Riverbend Stake,3,0,52,80,Rabbit Hill Ward,2,313,67,No
+193,Gateway Stake Centre,Gateway Stake,2,3,50,90,Crawford Plains Ward,3,460,90,No
+194,Coronation Park Chapel,Bonnie Doon Stake,2,2,37,57,Coronation Park Ward,1,0,57,No
+195,North Stake Centre,Edmonton North Stake,2,0,23,30,Griesbach Ward,1,20,30,No
+196,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,3,28,57,Forest Heights Ward,2,200,57,No
+197,North Stake Centre,Edmonton North Stake,2,2,19,30,Griesbach Ward,1,100,30,No
+198,Riverbend Stake Centre,Riverbend Stake,2,0,15,40,Woodbend Ward,1,80,88,No
+199,Riverbend Stake Centre,Riverbend Stake,2,3,27,60,Greenfield Ward,1,21,60,No
+200,Bearspaw Chapel,Bonnie Doon Stake,2,2,9,60,Southgate Ward,1,150,60,No
+201,Gateway Stake Centre,Gateway Stake,2,3,30,35,Lee Ridge Ward,1,30,35,No
+202,Riverbend Stake Centre,Riverbend Stake,1,5,70,60,Woodbend Ward,1,350,60,No
+203,Bearspaw Chapel,Gateway Stake,2,20,20,60,Blackmud Creek Ward,1,147,60,No
+204,Gateway Stake Centre,Gateway Stake,2,4,14,30,Ellerslie Ward,1,190,31,No
+205,Gateway Stake Centre,Gateway Stake,2,0,38,90,Silver Berry Ward,1,243,90,No
+206,Bearspaw Chapel,YSA Stake,1,2,50,60,Windsor Park YSA Ward,2,110,58,No
+207,Coronation Park Chapel,Bonnie Doon Stake,1,1,15,60,Coronation Park Ward,1,100,-660,No
+208,Gateway Stake Centre,Gateway Stake,2,0,6,19,Crawford Plains Ward,2,136,18,No
+209,Riverbend Stake Centre,Riverbend Stake,2,1,35,30,Woodbend Ward,1,179,65,No
+210,Riverbend Stake Centre,Riverbend Stake,2,0,8,20,Greenfield Ward,1,150,30,No
+211,Gateway Stake Centre,Gateway Stake,2,4,25,34,Ellerslie Ward,1,198,34,No
+212,Londonderry Chapel,Bonnie Doon Stake,1,0,38,90,Clareview Ward,2,300,114,No
+213,Londonderry Chapel,Bonnie Doon Stake,2,0,28,45,Londonderry Ward,1,185,-32.88349515,No
+214,North Stake Centre,Edmonton North Stake,2,1,21,45,Griesbach Ward,2,150,45,No
+215,Riverbend Stake Centre,Riverbend Stake,1,1,30,45,Rabbit Hill Ward,1,158,40,No
+216,Riverbend Stake Centre,Riverbend Stake,2,1,46,60,Greenfield Ward,1,220,60,No
+217,Gateway Stake Centre,Gateway Stake,2,1,25,45,Silver Berry Ward,1,230,45,No
+218,Gateway Stake Centre,Gateway Stake,2,1,40,60,Ellerslie Ward,1,228,53,No
+219,Bearspaw Chapel,Bonnie Doon Stake,1,2,31,60,Southgate Ward,1,143,55,No
+220,Bearspaw Chapel,Gateway Stake,2,4,24,40,Lee Ridge Ward,1,169,40,No
+221,Gateway Stake Centre,Gateway Stake,2,0,8,30,Crawford Plains Ward,1,144,30,No
+222,North Stake Centre,Edmonton North Stake,2,1,17,60,Griesbach Ward,1,50,75,No
+223,Gateway Stake Centre,Gateway Stake,2,4,40,37,Ellerslie Ward,1,207,-32.88349515,No
+224,Riverbend Stake Centre,Riverbend Stake,2,0,44,80,Greenfield Ward,1,200,80,No
+225,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,0,19,60,Connors Hill Ward,2,280,-657,No
+226,Gateway Stake Centre,Gateway Stake,2,0,25,30,Crawford Plains Ward,1,150,10,No
+227,North Stake Centre,Edmonton North Stake,1,3,30,75,Griesbach Ward,1,100,-645,No
+228,Bearspaw Chapel,Gateway Stake,4,0,24,40,Lee Ridge Ward,1,155,45,No
+229,Riverbend Stake Centre,Riverbend Stake,2,4,45,120,Greenfield Ward,1,45,109,No
+230,Riverbend Stake Centre,Riverbend Stake,2,1,80,70,Rabbit Hill Ward,2,400,100,No
+231,Gateway Stake Centre,Gateway Stake,2,0,24,60,Silver Berry Ward,1,220,-660,No
+232,Gateway Stake Centre,Gateway Stake,1,2,32,60,Crawford Plains Ward,2,215,-660,No
+233,North Stake Centre,Edmonton North Stake,1,0,5,30,Griesbach Ward,1,40,30,No
+234,Londonderry Chapel,Bonnie Doon Stake,2,4,22,20,Clareview Ward,1,0,-687,No
+235,Riverbend Stake Centre,Riverbend Stake,3,0,14,30,Rutherford Ward,1,159,40,No
+236,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,14,45,Strathcona Married Student Ward,1,110,35,No
+237,Riverbend Stake Centre,Riverbend Stake,3,1,34,60,Terwillegar Park Ward,1,150,96,No
+238,Riverbend Stake Centre,Riverbend Stake,2,0,12,35,Rutherford Ward,1,159,25,No
+239,North Stake Centre,Edmonton North Stake,1,4,22,60,Namao Ward,1,236,90,No
+240,Riverbend Stake Centre,Riverbend Stake,2,2,35,30,Rutherford Ward,1,207,30,No
+241,North Stake Centre,Edmonton North Stake,1,5,16,30,Griesbach Ward,1,120,30,No
+242,Londonderry Chapel,Bonnie Doon Stake,1,4,40,60,Clareview Ward,2,400,-32.88349515,No
+243,Bearspaw Chapel,Bonnie Doon Stake,4,0,8,45,Southgate Ward,1,80,60,No
+244,Gateway Stake Centre,Gateway Stake,2,3,23,58,Lee Ridge Ward,1,23,58,No
+245,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,3,11,30,Forest Heights Ward,2,170,-690,No
+246,Gateway Stake Centre,Gateway Stake,3,1,28,30,Crawford Plains Ward,1,123,30,No
+247,Riverbend Stake Centre,Riverbend Stake,4,0,25,60,Terwillegar Park Ward,1,100,-660,No
+248,North Stake Centre,Edmonton North Stake,3,0,16,30,Griesbach Ward,1,75,30,No
+249,Riverbend Stake Centre,Riverbend Stake,2,2,30,25,Greenfield Ward,1,196,30,No
+250,Gateway Stake Centre,Gateway Stake,1,3,32,52,Crawford Plains Ward,2,200,52,No
+251,Gateway Stake Centre,Gateway Stake,1,1,120,70,Crawford Plains Ward,6,900,-643,No
+252,Gateway Stake Centre,Gateway Stake,2,3,40,90,Crawford Plains Ward,3,380,90,No
+253,Coronation Park Chapel,Bonnie Doon Stake,2,0,44,60,Coronation Park Ward,2,266,60,No
+254,Londonderry Chapel,Bonnie Doon Stake,2,0,16,60,Clareview Ward,1,100,-655,No
+255,Bearspaw Chapel,Gateway Stake,2,1,20,50,Lee Ridge Ward,1,158,-675,No
+256,Gateway Stake Centre,Gateway Stake,1,1,25,35,Crawford Plains Ward,1,26,-685,No
+257,Londonderry Chapel,Bonnie Doon Stake,2,2,39,60,Londonderry Ward,1,0,-32.88349515,No
+258,Gateway Stake Centre,Gateway Stake,2,1,44,60,Lee Ridge Ward,1,168,-649,No
+259,Gateway Stake Centre,Gateway Stake,2,3,24,60,Crawford Plains Ward,1,128,60,No
+260,Bearspaw Chapel,Bonnie Doon Stake,2,1,25,45,Southgate Ward,2,256,50,No
+261,Bearspaw Chapel,Gateway Stake,2,0,44,75,Lee Ridge Ward,1,125,85,No
+262,Bearspaw Chapel,Gateway Stake,2,3,22,35,Lee Ridge Ward,2,207,32,No
+263,Gateway Stake Centre,Gateway Stake,2,0,20,55,Lee Ridge Ward,1,25,55,No
+264,Gateway Stake Centre,Gateway Stake,2,2,67,100,Ellerslie Ward,3,501,100,No
+265,Bearspaw Chapel,Bonnie Doon Stake,2,5,15,25,Southgate Ward,1,115,-636,No
+266,Gateway Stake Centre,Gateway Stake,2,0,36,60,Crawford Plains Ward,2,140,-647,No
+267,Gateway Stake Centre,Gateway Stake,2,1,16,30,Crawford Plains Ward,1,114,21,No
+268,Gateway Stake Centre,Gateway Stake,3,1,18,23,Ellerslie Ward,1,180,23,No
+269,Gateway Stake Centre,Gateway Stake,2,0,27,40,Crawford Plains Ward,2,267,40,No
+270,Bearspaw Chapel,Gateway Stake,3,3,37,60,Blackmud Creek Ward,1,206,50,No
+271,Bearspaw Chapel,Bonnie Doon Stake,2,0,12,60,Southgate Ward,1,0,60,No
+272,Londonderry Chapel,Bonnie Doon Stake,3,0,150,120,Clareview Ward,4,450,65,No
+273,Gateway Stake Centre,Gateway Stake,3,1,28,27,Ellerslie Ward,1,184,27,No
+274,Londonderry Chapel,Bonnie Doon Stake,1,2,25,45,Clareview Ward,1,135,-32.88349515,No
+275,North Stake Centre,Edmonton North Stake,1,0,7,45,Griesbach Ward,1,40,-675,No
+276,Gateway Stake Centre,Gateway Stake,2,0,28,90,Silver Berry Ward,2,460,90,No
+277,Gateway Stake Centre,Gateway Stake,2,0,17,60,Silver Berry Ward,1,153,-665,No
+278,Londonderry Chapel,Bonnie Doon Stake,1,2,20,60,Clareview Ward,1,110,-613,No
+279,Gateway Stake Centre,Gateway Stake,2,4,59,105,Silver Berry Ward,2,492,-615,No
+280,Gateway Stake Centre,Gateway Stake,2,0,17,60,Silver Berry Ward,1,235,78,No
+281,Riverbend Stake Centre,Riverbend Stake,2,1,100,90,Rabbit Hill Ward,3,482,137,No
+282,Gateway Stake Centre,Gateway Stake,2,3,65,65,Ellerslie Ward,3,65,65,No
+283,Gateway Stake Centre,Gateway Stake,26,3,25,35,Ellerslie Ward,1,19,-687,No
+284,Londonderry Chapel,Bonnie Doon Stake,2,0,15,20,Londonderry Ward,1,50,-32.88349515,No
+285,Riverbend Stake Centre,Riverbend Stake,2,0,19,65,Rutherford Ward,1,174,65,No
+286,Londonderry Chapel,Bonnie Doon Stake,1,2,20,20,Clareview Ward,1,0,-641,No
+287,Gateway Stake Centre,Gateway Stake,2,2,36,35,Silver Berry Ward,1,216,35,No
+288,North Stake Centre,Edmonton North Stake,1,1,14,60,Griesbach Ward,1,135,70,No
+289,Gateway Stake Centre,Gateway Stake,2,2,60,80,Silver Berry Ward,2,366,-620,No
+290,Londonderry Chapel,Bonnie Doon Stake,3,1,30,60,Clareview Ward,1,0,-32.88349515,No
+291,Londonderry Chapel,Bonnie Doon Stake,2,0,35,75,Londonderry Ward,3,75,-665,No
+292,Gateway Stake Centre,Gateway Stake,1,2,24,30,Silver Berry Ward,1,244,28,No
+293,Londonderry Chapel,Bonnie Doon Stake,2,2,60,60,Clareview Ward,3,165,-32.88349515,No
+294,North Stake Centre,Edmonton North Stake,1,3,30,35,Namao Ward,1,272,35,No
+295,Riverbend Stake Centre,Riverbend Stake,2,8,200,240,Rabbit Hill Ward,8,1420,120,No
+296,Bearspaw Chapel,Gateway Stake,2,2,20,45,Beaumont Ward,2,200,-610,No
+297,Gateway Stake Centre,Gateway Stake,2,3,25,40,Crawford Plains Ward,1,60,38,No
+298,Bearspaw Chapel,Gateway Stake,1,4,30,45,Lee Ridge Ward,1,160,-675,No
+299,Bearspaw Chapel,Gateway Stake,2,4,18,45,Blackmud Creek Ward,1,154,45,No
+300,North Stake Centre,Edmonton North Stake,2,4,80,110,Griesbach Ward,5,500,-615,No
+301,Bearspaw Chapel,Gateway Stake,1,1,20,60,Lee Ridge Ward,1,161,-665,No
+302,Gateway Stake Centre,Gateway Stake,3,5,66,115,Silver Berry Ward,3,654,-593,No
+303,Riverbend Stake Centre,Riverbend Stake,2,0,20,60,Woodbend Ward,1,137,60,No
+304,Bearspaw Chapel,Bonnie Doon Stake,2,4,45,90,Southgate Ward,2,0,-655,No
+305,Londonderry Chapel,Bonnie Doon Stake,1,1,12,60,Londonderry Ward,1,0,45,No
+306,Londonderry Chapel,Bonnie Doon Stake,1,0,55,180,Clareview Ward,1,225,-32.88349515,No
+307,Gateway Stake Centre,Gateway Stake,1,2,17,40,Crawford Plains Ward,1,113,50,No
+308,Bearspaw Chapel,Gateway Stake,2,3,50,45,Blackmud Creek Ward,1,240,45,No
+309,Bearspaw Chapel,Gateway Stake,1,1,23,30,Lee Ridge Ward,1,0,30,No
+310,Gateway Stake Centre,Gateway Stake,2,3,30,62,Ellerslie Ward,1,200,63,No
+311,Londonderry Chapel,Bonnie Doon Stake,2,0,5,15,Londonderry Ward,1,218,-32.88349515,No
+312,Bearspaw Chapel,Gateway Stake,2,1,21,35,Lee Ridge Ward,1,139,32,No
+313,Gateway Stake Centre,Gateway Stake,2,4,50,45,Ellerslie Ward,1,236,60,No
+314,Riverbend Stake Centre,Riverbend Stake,1,1,43,60,Rabbit Hill Ward,1,208,65,No
+315,Gateway Stake Centre,Gateway Stake,2,3,25,40,Silver Berry Ward,1,118,48,No
+316,Gateway Stake Centre,Gateway Stake,1,0,29,69,Silver Berry Ward,1,266,-660,No
+317,Gateway Stake Centre,Gateway Stake,2,0,40,65,Ellerslie Ward,1,239,-655,No
+318,Gateway Stake Centre,Gateway Stake,2,2,85,90,Silver Berry Ward,3,585,-630,No
+319,Bearspaw Chapel,Gateway Stake,2,1,30,40,Lee Ridge Ward,2,165,90,No
+320,Gateway Stake Centre,Gateway Stake,1,1,18,26,Ellerslie Ward,1,201,25,No
+321,Bearspaw Chapel,Bonnie Doon Stake,1,0,13,60,Strathcona Married Student Ward,1,0,61,No
+322,Gateway Stake Centre,Gateway Stake,2,2,20,45,Lee Ridge Ward,1,151,-597,No
+323,North Stake Centre,Edmonton North Stake,2,0,93,120,Griesbach Ward,3,552,-600,No
+324,Gateway Stake Centre,Gateway Stake,2,3,22,40,Silver Berry Ward,1,118,-680,No
+325,Riverbend Stake Centre,Riverbend Stake,4,0,80,120,Drayton Valley Ward,4,400,90,No
+326,Gateway Stake Centre,Gateway Stake,2,2,29,45,Silver Berry Ward,1,342,45,No
+327,Bearspaw Chapel,Gateway Stake,2,1,35,40,Lee Ridge Ward,2,172,60,No
+328,Bearspaw Chapel,Gateway Stake,1,0,23,60,Lee Ridge Ward,1,163,90,No
+329,Gateway Stake Centre,Gateway Stake,2,2,17,37,Silver Berry Ward,1,186,37,No
+330,Bearspaw Chapel,Bonnie Doon Stake,2,0,22,30,Southgate Ward,1,145,45,No
+331,Riverbend Stake Centre,Riverbend Stake,2,0,8,15,Rutherford Ward,1,68,38,No
+332,Bearspaw Chapel,Bonnie Doon Stake,2,0,11,38,Strathcona Married Student Ward,1,158,43,No
+333,Gateway Stake Centre,Gateway Stake,6,0,20,30,Silver Berry Ward,1,300,30,No
+334,Bearspaw Chapel,Bonnie Doon Stake,2,3,60,90,Southgate Ward,2,257,-630,No
+335,Riverbend Stake Centre,Riverbend Stake,2,1,80,60,Terwillegar Park Ward,2,300,-640,No
+336,Londonderry Chapel,Bonnie Doon Stake,2,1,42,110,Clareview Ward,2,191,-608,No
+337,Bearspaw Chapel,Gateway Stake,2,3,32,30,Lee Ridge Ward,1,157,-675,No
+338,Riverbend Stake Centre,Riverbend Stake,2,2,54,90,Woodbend Ward,1,350,100,No
+339,Riverbend Stake Centre,Riverbend Stake,3,1,100,105,Rabbit Hill Ward,2,80,-32.88349515,No
+340,Londonderry Chapel,Bonnie Doon Stake,4,0,200,240,Clareview Ward,7,607,-32.88349515,No
+341,Londonderry Chapel,Bonnie Doon Stake,3,1,25,60,Clareview Ward,1,25,-32.88349515,No
+342,Gateway Stake Centre,Gateway Stake,2,1,45,60,Rio Vista Ward,2,36,54,No
+343,Riverbend Stake Centre,Riverbend Stake,3,1,110,120,Rabbit Hill Ward,3,430,100,No
+344,Bearspaw Chapel,Bonnie Doon Stake,2,0,58,75,Southgate Ward,3,193,70,No
+345,Riverbend Stake Centre,Riverbend Stake,2,3,39,120,Greenfield Ward,1,110,109,No
+346,Gateway Stake Centre,Gateway Stake,2,2,35,80,Lee Ridge Ward,2,330,-640,No
+347,Riverbend Stake Centre,Riverbend Stake,2,3,88,40,Woodbend Ward,1,380,15,No
+348,Riverbend Stake Centre,Riverbend Stake,1,3,12,30,Rutherford Ward,1,142,-690,No
+349,Gateway Stake Centre,Gateway Stake,3,4,33,30,Silver Berry Ward,3,206,-690,No
+350,Bearspaw Chapel,Gateway Stake,3,0,30,45,Blackmud Creek Ward,1,171,45,No
+351,North Stake Centre,Edmonton North Stake,3,0,60,120,Griesbach Ward,2,380,140,No
+352,Bearspaw Chapel,Gateway Stake,4,5,14,30,Blackmud Creek Ward,1,0,30,No
+353,Gateway Stake Centre,Gateway Stake,2,0,23,25,Lee Ridge Ward,1,160,25,No
+354,Gateway Stake Centre,Gateway Stake,1,1,45,90,Ellerslie Ward,1,180,90,No
+355,Riverbend Stake Centre,Riverbend Stake,2,4,80,105,Rabbit Hill Ward,4,74,-615,No
+356,Bearspaw Chapel,Bonnie Doon Stake,2,3,20,45,Southgate Ward,1,147,45,No
+357,Riverbend Stake Centre,Riverbend Stake,2,0,100,90,Greenfield Ward,2,500,-625,No
+358,Bearspaw Chapel,Gateway Stake,3,0,8,30,Blackmud Creek Ward,1,60,30,No
+359,Riverbend Stake Centre,Riverbend Stake,5,0,28,60,Rutherford Ward,2,260,92,No
+360,Bearspaw Chapel,Gateway Stake,3,4,14,60,Lee Ridge Ward,2,147,85,No
+361,Riverbend Stake Centre,Riverbend Stake,2,2,65,80,Woodbend Ward,2,200,80,No
+362,Bearspaw Chapel,Gateway Stake,3,4,25,35,Lee Ridge Ward,2,166,-634,No
+363,Riverbend Stake Centre,Riverbend Stake,2,2,67,60,Rutherford Ward,2,377,60,No
+364,Riverbend Stake Centre,Riverbend Stake,3,0,34,90,Rutherford Ward,2,246,-630,No
+365,Bearspaw Chapel,Gateway Stake,4,9,32,75,Blackmud Creek Ward,1,178,75,No
+366,Gateway Stake Centre,Gateway Stake,1,1,25,25,Ellerslie Ward,1,226,25,No
+367,Riverbend Stake Centre,Riverbend Stake,1,1,125,150,Terwillegar Park Ward,3,650,170,No
+368,North Stake Centre,Edmonton North Stake,2,2,145,150,Namao Ward,5,2500,-570,No
+369,Riverbend Stake Centre,Riverbend Stake,2,2,40,75,Rutherford Ward,1,215,-655,No
+370,Riverbend Stake Centre,Riverbend Stake,3,3,40,60,Terwillegar Park Ward,2,280,60,No
+371,Riverbend Stake Centre,Riverbend Stake,2,0,20,70,Woodbend Ward,1,160,75,No
+372,Riverbend Stake Centre,Riverbend Stake,4,0,65,60,Rabbit Hill Ward,1,300,-605,No
+373,Gateway Stake Centre,Gateway Stake,2,2,52,125,Crawford Plains Ward,3,324,105,No
+374,Bearspaw Chapel,Gateway Stake,0,2,20,120,Lee Ridge Ward,2,163,-655,No
+375,Bearspaw Chapel,Gateway Stake,0,2,20,60,Lee Ridge Ward,1,168,65,No
+376,Gateway Stake Centre,Gateway Stake,2,2,37,140,Crawford Plains Ward,3,321,140,No
+377,Riverbend Stake Centre,Riverbend Stake,4,0,56,120,Rabbit Hill Ward,2,200,103,No
+378,Riverbend Stake Centre,Riverbend Stake,2,0,35,90,Rutherford Ward,2,240,75,No
+379,North Stake Centre,Edmonton North Stake,1,3,22,40,Namao Ward,1,172,40,No
+380,Gateway Stake Centre,Gateway Stake,2,5,39,45,Ellerslie Ward,2,466,45,No
+381,Bearspaw Chapel,Gateway Stake,1,0,18,120,Lee Ridge Ward,2,40,120,No
+382,Bearspaw Chapel,Gateway Stake,3,0,22,1.5,Lee Ridge Ward,2,158,180,No
+383,Bearspaw Chapel,Gateway Stake,1,4,41,25,Blackmud Creek Ward,1,260,70,No
+384,Riverbend Stake Centre,Riverbend Stake,1,0,25,80,Rabbit Hill Ward,2,273,-615,No
+385,Londonderry Chapel,Bonnie Doon Stake,2,0,1,30,Clareview Ward,1,100,754,No
+386,Gateway Stake Centre,Gateway Stake,1,2,10,30,Ellerslie Ward,1,205,750,No
+387,Bearspaw Chapel,Gateway Stake,2,3,42,30,Blackmud Creek Ward,1,95,53,No
+388,Gateway Stake Centre,Gateway Stake,2,5,25,45,Ellerslie Ward,1,200,45,No
+389,North Stake Centre,Edmonton North Stake,2,0,70,150,Griesbach Ward,3,400,120,No
+390,North Stake Centre,Edmonton North Stake,2,0,69,150,Griesbach Ward,3,400,145,No
+391,Bearspaw Chapel,Gateway Stake,33,4,19,20,Blackmud Creek Ward,2,109,20,No
+392,Bearspaw Chapel,Gateway Stake,1,4,12,20,Blackmud Creek Ward,2,178,20,No
+393,North Stake Centre,Edmonton North Stake,2,0,45,170,Namao Ward,1,316,165,No
+394,North Stake Centre,Edmonton North Stake,1,0,17,15,Griesbach Ward,1,140,15,No
+395,North Stake Centre,Edmonton North Stake,1,4,24,40,Namao Ward,1,211,-680,No
+396,Gateway Stake Centre,Gateway Stake,1,3,77,120,Silver Berry Ward,2,472,120,No
+397,Gateway Stake Centre,Gateway Stake,1,1,14,45,Silver Berry Ward,1,150,45,No
+398,Gateway Stake Centre,Gateway Stake,2,2,124,165,Crawford Plains Ward,6,759,165,No
+399,Riverbend Stake Centre,Riverbend Stake,2,3,25,45,Woodbend Ward,1,155,75,No
+400,Bearspaw Chapel,Gateway Stake,1,2,15,45,Lee Ridge Ward,2,162,110,No
+401,Gateway Stake Centre,Gateway Stake,5,8,33,80,Rio Vista Ward,3,397,80,No
+402,Gateway Stake Centre,Gateway Stake,2,1,50,135,Ellerslie Ward,2,419,135,No
+403,Bearspaw Chapel,Gateway Stake,1,2,25,45,Lee Ridge Ward,1,160,120,No
+404,Gateway Stake Centre,Gateway Stake,1,1,12,60,Crawford Plains Ward,1,92,60,No
+405,Gateway Stake Centre,Gateway Stake,2,2,20,60,Ellerslie Ward,1,197,60,No
+406,Bearspaw Chapel,Gateway Stake,2,1,14,75,Lee Ridge Ward,1,147,90,No
+407,Bearspaw Chapel,Gateway Stake,1,4,13,35,Blackmud Creek Ward,1,177,40,No
+408,Bearspaw Chapel,Gateway Stake,3,2,68,112,Lee Ridge Ward,3,466,-575,No
+409,Bearspaw Chapel,Bonnie Doon Stake,5,3,555,90,Southgate Ward,3,200,90,No
+410,Bearspaw Chapel,Bonnie Doon Stake,1,0,17,30,Southgate Ward,1,13,35,No
+411,Bearspaw Chapel,Gateway Stake,2,0,19,45,Blackmud Creek Ward,1,100,220,No
+412,Bearspaw Chapel,Gateway Stake,2,2,32,60,Blackmud Creek Ward,1,174,-645,No
+413,Bearspaw Chapel,Gateway Stake,2,0,16,20,Blackmud Creek Ward,1,67,30,No
+414,Gateway Stake Centre,Gateway Stake,38,2,29,45,Silver Berry Ward,2,339,45,No
+415,Gateway Stake Centre,Gateway Stake,2,2,17,37,Silver Berry Ward,2,197,37,No
+416,Bearspaw Chapel,Gateway Stake,2,0,20,60,Blackmud Creek Ward,1,123,-660,No
+417,Bearspaw Chapel,Gateway Stake,78,3,49,60,Blackmud Creek Ward,2,241,89,No
+418,Bearspaw Chapel,Gateway Stake,2,0,21,40,Blackmud Creek Ward,1,109,40,No
+419,Bearspaw Chapel,Gateway Stake,2,2,25,10,Blackmud Creek Ward,1,190,50,No
+420,Bearspaw Chapel,Gateway Stake,3,4,40,35,Blackmud Creek Ward,1,155,180,No
+421,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,2,5,20,20,Stony Plain Ward,1,115,150,No
+422,Riverbend Stake Centre,Riverbend Stake,2,10,29,40,Greenfield Ward,3,200,40,No
+423,Riverbend Stake Centre,Riverbend Stake,2,4,29,40,Terwillegar Park Ward,3,174,40,No
+424,Riverbend Stake Centre,Riverbend Stake,2,4,39,80,Terwillegar Park Ward,3,262,80,No
+425,Bearspaw Chapel,Gateway Stake,2,2,25,75,Blackmud Creek Ward,1,202,75,No
+426,Bearspaw Chapel,Bonnie Doon Stake,4,5,34,55,Southgate Ward,1,157,55,No
+427,Bearspaw Chapel,Gateway Stake,2,0,28,70,Lee Ridge Ward,1,142,60,No
+428,Gateway Stake Centre,Gateway Stake,2,0,150,150,Crawford Plains Ward,6,0,150,No
+429,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,1,0,16,30,Stony Plain Ward,1,0,30,No
+430,Bearspaw Chapel,Bonnie Doon Stake,4,0,14,45,Southgate Ward,1,13,45,No
+431,Bearspaw Chapel,Gateway Stake,2,0,22,60,Blackmud Creek Ward,1,0,-630,No
+432,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,2,0,29,60,Stony Plain Ward,3,240,120,No
+433,Bearspaw Chapel,Bonnie Doon Stake,1,4,30,30,Southgate Ward,1,130,30,No
+434,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,2,0,140,30,Stony Plain Ward,2,130,60,No
+435,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,1,3,52,72,Pioneer Ward,3,254,71,No
+436,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,1,9,10,Strathcona Married Student Ward,1,40,36,No
+437,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,2,24,20,Forest Heights Ward,2,120,43,No
+438,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,1,16,30,Forest Heights Ward,1,130,41,No
+439,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,0,14,30,Forest Heights Ward,1,110,51,No
+440,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,6,10,Forest Heights Ward,1,60,45,No
+441,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,12,20,Strathcona Married Student Ward,1,66,41,No
+442,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,0,7,25,Connors Hill Ward,1,100,35,No
+443,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,0,28,90,Connors Hill Ward,1,65,65,No
+444,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,36,45,Forest Heights Ward,2,150,63,Yes
+445,Coronation Park Chapel,North Edmonton,1,3,55,195,Belmead,1,279,-32.88349515,No
+446,Coronation Park Chapel,North Edmonton,2,0,39,120,Belmead,1,313,-32.88349515,No
+447,Coronation Park Chapel,North Edmonton,3,0,12,180,Belmead,1,161,-32.88349515,No
+448,Coronation Park Chapel,North Edmonton,3,0,30,180,Belmead,1,316,-32.88349515,No
+449,Coronation Park Chapel,North Edmonton,2,0,26,75,Belmead,1,187,-32.88349515,No
+450,Coronation Park Chapel,North Edmonton,3,0,57,180,Belmead,1,226,-32.88349515,No
+451,Coronation Park Chapel,North Edmonton,1,3,71,195,Belmead,1,343,-32.88349515,No
+452,Coronation Park Chapel,North Edmonton,2,3,54,135,Belmead,1,272,-32.88349515,No
+453,Coronation Park Chapel,North Edmonton,2,3,27,135,Belmead,1,298,-32.88349515,No
+454,Coronation Park Chapel,North Edmonton,1,2,25,135,Belmead,1,245,-32.88349515,No
+455,Coronation Park Chapel,North Edmonton,1,2,25,135,Belmead,1,239,-32.88349515,No
+456,Coronation Park Chapel,North Edmonton,2,0,19,75,Belmead,1,264,-32.88349515,No
+457,Coronation Park Chapel,North Edmonton,2,3,21,45,Belmead,1,289,-32.88349515,No
+458,Coronation Park Chapel,North Edmonton,4,0,31,75,Belmead,1,267,-32.88349515,No
+459,Coronation Park Chapel,North Edmonton,2,3,12,75,Belmead,1,200,-32.88349515,No
+460,Coronation Park Chapel,North Edmonton,2,0,17,75,Belmead,1,303,-32.88349515,No
+461,Coronation Park Chapel,North Edmonton,1,0,35,105,Belmead,1,288,-32.88349515,No
+462,Coronation Park Chapel,North Edmonton,2,0,35,60,Belmead,1,257,-32.88349515,No
+463,Coronation Park Chapel,North Edmonton,2,0,17,120,Belmead,1,186,-32.88349515,No
+464,Coronation Park Chapel,North Edmonton,3,0,25,60,Belmead,1,219,-32.88349515,No
+465,Coronation Park Chapel,North Edmonton,1,1,20,60,Belmead,1,280,-32.88349515,No
+466,Coronation Park Chapel,North Edmonton,1,2,31,150,Belmead,1,284,-32.88349515,No
+467,Coronation Park Chapel,North Edmonton,1,3,80,120,Belmead,1,296,-32.88349515,No
+468,Coronation Park Chapel,North Edmonton,1,2,20,150,Belmead,1,234,-32.88349515,No
+469,Coronation Park Chapel,North Edmonton,1,2,28,150,Belmead,1,264,-32.88349515,No
+470,Coronation Park Chapel,North Edmonton,1,3,13,60,Belmead,1,210,-32.88349515,No
+471,Coronation Park Chapel,North Edmonton,1,3,13,60,Belmead,1,289,-32.88349515,No
+472,Coronation Park Chapel,North Edmonton,2,0,47,105,Belmead,1,268,-32.88349515,No
+473,Coronation Park Chapel,North Edmonton,1,0,14,60,Belmead,1,254,-32.88349515,No
+474,Coronation Park Chapel,North Edmonton,2,2,45,195,Belmead,1,240,-32.88349515,No
+475,Coronation Park Chapel,North Edmonton,2,2,40,195,Belmead,1,288,-32.88349515,No
+476,Coronation Park Chapel,North Edmonton,2,3,32,135,Belmead,1,288,-32.88349515,No
+477,Coronation Park Chapel,North Edmonton,2,3,47,135,Belmead,1,213,-32.88349515,No
+478,Coronation Park Chapel,North Edmonton,2,0,63,180,Belmead,1,328,-32.88349515,No
+479,Coronation Park Chapel,North Edmonton,1,0,23,135,Belmead,1,281,-32.88349515,No
+480,Coronation Park Chapel,North Edmonton,2,1,31,90,Belmead,1,256,-32.88349515,No
+481,Coronation Park Chapel,North Edmonton,1,0,33,120,Belmead,1,297,-32.88349515,No
+482,Coronation Park Chapel,North Edmonton,2,3,61,150,Belmead,1,284,-32.88349515,No
+483,Coronation Park Chapel,North Edmonton,2,3,37,120,Belmead,1,275,-32.88349515,No
+484,Coronation Park Chapel,North Edmonton,0,2,30,120,Belmead,1,267,-32.88349515,No
+485,Coronation Park Chapel,North Edmonton,0,2,18,120,Belmead,1,275,-32.88349515,No
+486,Coronation Park Chapel,North Edmonton,3,1,38,75,Belmead,1,278,-32.88349515,No
+487,Coronation Park Chapel,North Edmonton,1,0,22,120,Belmead,1,237,-32.88349515,No
+488,Coronation Park Chapel,North Edmonton,2,2,25,90,Belmead,1,228,-32.88349515,No
+489,Coronation Park Chapel,North Edmonton,2,1,24,150,Belmead,1,216,-32.88349515,No
+490,Coronation Park Chapel,North Edmonton,2,1,37,150,Belmead,1,217,-32.88349515,No
+491,Coronation Park Chapel,North Edmonton,2,1,22,150,Belmead,1,234,-32.88349515,No
+492,Coronation Park Chapel,North Edmonton,2,3,26,150,Belmead,1,237,-32.88349515,No
+493,Coronation Park Chapel,North Edmonton,1,2,15,45,Belmead,1,153,-32.88349515,No
+494,Coronation Park Chapel,North Edmonton,1,2,16,45,Belmead,1,300,-32.88349515,No
+495,Coronation Park Chapel,North Edmonton,2,0,28,120,Belmead,1,273,-32.88349515,No
+496,Coronation Park Chapel,North Edmonton,2,0,29,120,Belmead,1,201,-32.88349515,No
+497,Coronation Park Chapel,North Edmonton,2,1,27,150,Belmead,1,255,-32.88349515,No
+498,Coronation Park Chapel,North Edmonton,2,0,18,60,Belmead,1,207,-32.88349515,No
+499,Coronation Park Chapel,North Edmonton,1,2,16,30,Belmead,1,201,-32.88349515,No
+500,Coronation Park Chapel,North Edmonton,1,1,30,105,Belmead,1,219,-32.88349515,No
+501,Coronation Park Chapel,North Edmonton,1,1,30,105,Belmead,1,154,-32.88349515,No
+502,Coronation Park Chapel,North Edmonton,1,2,31,105,Belmead,1,289,-32.88349515,No
+503,Coronation Park Chapel,North Edmonton,1,2,53,105,Belmead,1,320,-32.88349515,No
+504,Coronation Park Chapel,North Edmonton,1,1,16,75,Belmead,1,273,-32.88349515,No
+505,Coronation Park Chapel,North Edmonton,1,1,33,75,Belmead,1,293,-32.88349515,No
+506,Coronation Park Chapel,North Edmonton,1,1,15,45,Belmead,1,195,-32.88349515,No
+507,Coronation Park Chapel,North Edmonton,1,1,15,45,Belmead,1,155,-32.88349515,No
+508,Coronation Park Chapel,North Edmonton,3,0,43,60,Belmead,1,293,-32.88349515,No
+509,Coronation Park Chapel,North Edmonton,2,3,38,150,Belmead,1,305,-32.88349515,No
+510,Coronation Park Chapel,North Edmonton,1,1,38,45,Belmead,1,299,-32.88349515,No
+511,Coronation Park Chapel,North Edmonton,1,1,30,60,Belmead,1,273,-32.88349515,No
+512,Coronation Park Chapel,North Edmonton,3,3,19,75,Belmead,1,281,-32.88349515,No
